@@ -16,6 +16,9 @@ USING_NS_CC;
 AppDelegate::AppDelegate()
 {
 
+
+
+// to do something
 }
 
 AppDelegate::~AppDelegate()
